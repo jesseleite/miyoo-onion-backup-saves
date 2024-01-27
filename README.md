@@ -1,6 +1,6 @@
 # Backup Saves for Miyoo OnionOS
 
-Easily create snapshot style backups of your Miyoo Mini's `/Saves` folder with the click of a button 💾
+Easily create snapshot style backups of your Miyoo Mini's `/Saves` folder with the click of a button 👾
 
 ## Installation
 
