@@ -1,0 +1,6 @@
+{
+  "label": "Backup Saves",
+  "icon": "../../Icons/Default/app/commander.png",
+  "launch": "launch.sh",
+  "description": "Backup your saves to /Backups"
+}
